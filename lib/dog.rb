@@ -1,7 +1,7 @@
 class Dog
  
-  def initialize(name)
-    @name = name
+  def name=(blank)
+    @name = blank
   end
  
   def name
